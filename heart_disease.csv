@@ -1,0 +1,16 @@
+Age,Sex,BP,Cholestrol,restecg,Pulse,Excersise,Target
+63,male,145,233,Normal,150,no,1
+37,male,130,250,Abnormal,187,no,1
+41,female,130,204,Abnormal,172,yes,1
+56,female,120,236,Normal,178,no,0
+57,male,120,354,Abnormal,163,yes,1
+62,female,140,268,Normal,160,no,0
+57,female,120,354,Abnormal,163,yes,1
+54,male,150,232,Normal,165,yes,0
+48,female,130,275,Abnormal,139,no,0
+45,male,128,308,Normal,170,no,1
+50,female,110,254,Abnormal,159,yes,0
+60,male,140,293,Abnormal,170,yes,1
+38,female,138,220,Normal,152,no,0
+61,male,148,203,Abnormal,161,yes,1
+44,female,120,263,Normal,173,no,0
